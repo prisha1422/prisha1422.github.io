@@ -1,0 +1,59 @@
+html{
+    background-color: yellow;
+   
+    
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 650px;
+    border: 5px double  blue;
+    margin: auto;
+    background-color: white;
+    margin-block: 0px 50px;
+}
+main{
+    padding: 1em;
+}
+footer{
+    margin: 1em;
+    border-top: 3px solid blue;
+}
+h1{
+    font-size: 150%;
+    color: blue;
+}
+h2{
+    font-size: 125%;
+    margin-bottom: 0px;
+}
+h3{
+    font-size: 115%;
+}
+blockquote{
+    margin: 0px;
+}
+ul{
+    padding-left: 1em;
+}
+cite{
+    color: blue;
+    font-style: none;
+}
+.citation{
+    margin-top: 0px;
+    text-align: right;
+    padding-bottom: .75 em;
+    font-style: normal;
+}
+img{
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 10px;
+}
+footer{
+    font-size: 90%;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 1px;
+}
