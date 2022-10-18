@@ -117,6 +117,7 @@ section h3 {
 }
 .image{
     margin-left: 160px;
+    cursor: pointer;
 }
 .name{
     margin-left: 160px;
