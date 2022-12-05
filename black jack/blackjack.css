@@ -1,0 +1,158 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background-color: rgb(4, 100, 4);
+  color: white;
+  background-image: url("./images/b3.jpg");
+  background-size: 1400px;
+}
+
+section {
+  height: 120px;
+  width: auto;
+  background-image: url("./images/t2.jpg");
+  background-size: 1400px;
+
+}
+
+section h1 {
+  text-align: center;
+  font-size: 430%;
+  font-weight: bold;
+  padding: 0;
+  margin: 0;
+  color: rgb(10, 10, 10);
+
+}
+
+section img {
+  float: left;
+  height: 120px;
+  width: 120px;
+  margin-left: 10px;
+  padding-right: 20px;
+}
+
+.block {
+  display: block;
+  width: 100px;
+  border: none;
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 28px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+.block2{
+  display: block;
+  float: right;
+  width: 200px;
+  border: none;
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 28px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+ 
+}
+
+#rules {
+ 
+  text-align: center;
+  margin-top: 30px;
+  width: 200px;
+  height: 30px;
+  padding: .7em 0;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  
+}
+
+h2 {
+  font-size: 40px;
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+.first {
+  float: left;
+}
+
+.second {
+  float: left;
+  margin-left: 450px;
+
+}
+
+#dealer-cards img {
+  float: left;
+  height: 175px;
+  width: 125px;
+  margin: 1px;
+}
+
+#your-cards img {
+  float: right;
+  height: 175px;
+  width: 125px;
+  margin: 1px;
+
+}
+
+#buttons {
+  margin-top: 145px;
+
+}
+
+
+#hit {
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  background-color: rgb(247, 81, 81);
+  border: none;
+}
+
+#stay {
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  border: none;
+}
+
+#dealBtn {
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  background-color: rgb(76, 76, 253);
+  border: none;
+}
+#split{
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  background-color: rgb(76, 76, 253);
+  border: none;
+}
+#results {
+  font-size: 50px;
+  font-style: italic;
+  color: rgb(226, 43, 43);
+}
+
+
+h1{
+  color:red;
+  font-weight: bold;
+  float: left;
+}
+.third{
+  text-align: left;
+}
+.fourth{
+  text-align: left;
+}
